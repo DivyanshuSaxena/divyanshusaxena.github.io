@@ -22,7 +22,7 @@ I am broadly interested in Systems and Networking, with a focus on understanding
 
 I'm fascinated by questions such as "Can we bring datacenter-like capabilities to the end-users?" or "What are the fundamental constraints in the networking devices we use?". As a long term goal, it is my desire to bridge the gap between research and ground reality by working on socially utilizable projects.
 
-Previously, I was an undergraduate student at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/){:target="_blank"} majoring in [Computer Science and Engineering](https://cse.iitd.ac.in){:target="_blank"} where I met and made friends with some absolutely amazing and competent people. I hail from [Lucknow](https://goo.gl/maps/yNiHPh9WgNbjwPeH9){:target="_blank"}, a city in North India.
+Previously, I was an undergraduate student at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/){:target="_blank"} majoring in [Computer Science and Engineering](https://cse.iitd.ac.in){:target="_blank"} where I met and made friends with some absolutely amazing and competent people. I hail from [Lucknow](https://goo.gl/maps/yNiHPh9WgNbjwPeH9){:target="_blank"}, a city in Northern India.
 
 **_I am actively seeking internships for Summer 2022._**
 
