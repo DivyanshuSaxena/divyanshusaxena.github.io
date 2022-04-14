@@ -24,6 +24,6 @@ I'm fascinated by questions such as "Can we bring datacenter-like capabilities t
 
 Previously, I was an undergraduate student at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/){:target="_blank"} majoring in [Computer Science and Engineering](https://cse.iitd.ac.in){:target="_blank"} where I met and made friends with some absolutely amazing and competent people. I hail from [Lucknow](https://goo.gl/maps/yNiHPh9WgNbjwPeH9){:target="_blank"}, a city in Northern India.
 
-**_I am actively seeking internships for Summer 2022._**
+<!-- **_I am actively seeking internships for Summer 2022._** -->
 
 [CV](assets/pdf/resume_intern.pdf)
