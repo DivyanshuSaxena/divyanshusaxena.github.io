@@ -22,17 +22,17 @@ pagination:
   
   
   <ul class="post-list">
-    <br />
-    <h4 align="center">Currently under construction. Check back later for updates!</h4>
-    <!-- {% for post in paginator.posts %}
+    <!-- <br />
+    <h4 align="center">Currently under construction. Check back later for updates!</h4> -->
+    {% for post in paginator.posts %}
       <li>
         <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
         <p>{{ post.description }}</p>
       </li>
-    {% endfor %} -->
+    {% endfor %}
   </ul>
 
-  <!-- {% include pagination.html %} -->
+  {% include pagination.html %}
 
 </div>

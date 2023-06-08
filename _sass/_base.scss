@@ -428,6 +428,20 @@ footer.sticky-bottom {
           border: 1px solid var(--global-theme-color);
         }
       }
+      .abbr {
+        format {
+          display: inline-block;
+          background-color: var(--global-hover-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: white;
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+      }
       .title {
         font-weight: bolder;
       }

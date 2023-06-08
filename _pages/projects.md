@@ -6,6 +6,7 @@ description:
 display_categories: [research, courses]
 horizontal: true
 nav: false
+published: false
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
