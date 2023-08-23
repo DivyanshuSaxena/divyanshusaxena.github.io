@@ -1,5 +1,27 @@
+@misc{DirigoArxiv,
+title = {Dirigo: Self-scaling Stateful Actors For Serverless Real-time Data Processing}, 
+author = {Le Xu and Divyanshu Saxena and Neeraja J. Yadwadkar and Aditya Akella and Indranil Gupta},
+year = {2023},
+eprint = {2308.03615},
+archivePrefix = {arXiv},
+primaryClass = {cs.DC},
+abstract = {We propose Dirigo, a distributed stream processing service built atop virtual actors.
+Dirigo achieves both a high level of resource efficiency and performance isolation driven
+by user intent (SLO). To improve resource efficiency, Dirigo adopts a serverless architecture
+that enables time-sharing of compute resources among streaming operators, both within and
+across applications. Meanwhile, Dirigo improves performance isolation by inheriting the
+property of function autoscaling from serverless architecture. Specifically, Dirigo
+proposes (i) dual-mode actor, an actor abstraction that dynamically provides orderliness
+guarantee for streaming operator during autoscaling and (ii) a data plane scheduling
+mechanism, along with its API, that allows scheduling and scaling at the message-level
+granularity.},
+url = {https://arxiv.org/abs/2308.03615},
+pdf = {https://arxiv.org/pdf/2308.03615.pdf},
+abbr = {Arxiv},
+format = {Preprint}
+}
+
 @inproceedings{AppliedShort,
-bibtex_show = {true},
 author = {Divyanshu Saxena and William Zhang and Madhav Tummala and Saksham Goel and Aditya Akella},
 title = {Towards Efficient Microservice Communication.},
 booktitle = {Proceedings of the 5th Workshop on Advanced Tools, Programming Languages, and PLatforms for Implementing and Evaluating Algorithms for Distributed Systems. Held in conjunction with PODC},
@@ -33,7 +55,6 @@ format = {Workshop}
 }
 
 @article{OSR23,
-bibtex_show = {true},
 author = {Divyanshu Saxena and Tao Ji and Arjun Singhvi and Junaid Khalid and Aditya Akella},
 title = {Navigating Performance-Efficiency Tradeoffs in Serverless Computing: Deduplication to the Rescue!},
 year = {2023},
@@ -65,7 +86,6 @@ format = {Journal},
 }
 
 @inproceedings{Medes,
-bibtex_show = {true},
 author = {Divyanshu Saxena and Tao Ji and Arjun Singhvi and Junaid Khalid and Aditya Akella},
 title = {Memory Deduplication for Serverless Computing with Medes.},
 booktitle={Proceedings of the Seventeenth European Conference on Computer Systems},
@@ -106,7 +126,6 @@ format = {Conference}
 }
 
 @inproceedings{NSDIPoster,
-bibtex_show = {true},
 author = {Divyanshu Saxena and Saksham Goel and William Zhang and Madhav Tummala and Aditya Akella},
 title = {Application-tailored Communication with xMesh.},
 booktitle={NSDI '23: 20th USENIX Symposium on Networked Systems Design and Implementation},
