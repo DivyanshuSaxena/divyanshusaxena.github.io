@@ -1,3 +1,17 @@
+@misc{CongoArxiv,
+title = {CONGO: Compressive Online Gradient Optimization with Application to Microservices Management}, 
+author = {Jeremy Carleton and Prathik Vijaykumar and Divyanshu Saxena and Dheeraj Narasimha and Srinivas Shakkottai and Aditya Akella},
+year = {2024},
+eprint = {2407.06325},
+archivePrefix = {arXiv},
+primaryClass = {cs.LG},
+abstract = {We address the challenge of online convex optimization where the objective function's gradient exhibits sparsity, indicating that only a small number of dimensions possess non-zero gradients. Our aim is to leverage this sparsity to obtain useful estimates of the objective function's gradient even when the only information available is a limited number of function samples. Our motivation stems from distributed queueing systems like microservices-based applications, characterized by request-response workloads. Here, each request type proceeds through a sequence of microservices to produce a response, and the resource allocation across the collection of microservices is controlled to balance end-to-end latency with resource costs. While the number of microservices is substantial, the latency function primarily reacts to resource changes in a few, rendering the gradient sparse. Our proposed method, CONGO (Compressive Online Gradient Optimization), combines simultaneous perturbation with compressive sensing to estimate gradients. We establish analytical bounds on the requisite number of compressive sensing samples per iteration to maintain bounded bias of gradient estimates, ensuring sub-linear regret. By exploiting sparsity, we reduce the samples required per iteration to match the gradient's sparsity, rather than the problem's original dimensionality. Numerical experiments and real-world microservices benchmarks demonstrate CONGO's superiority over multiple stochastic gradient descent approaches, as it quickly converges to performance comparable to policies pre-trained with workload awareness.},
+url = {https://arxiv.org/abs/2407.06325},
+pdf = {https://arxiv.org/abs/2407.06325.pdf},
+abbr = {Arxiv},
+format = {Preprint}
+}
+
 @inproceedings{FM4OS,
 author = {Saxena, Divyanshu and Sharma, Nihal and Kim, Donghyun and Dwivedula, Rohit and Chen, Jiayi and Yang, Chenxi and Ravula, Sriram and Hu, Zichao and Akella, Aditya and Angel, Sebastian and Biswas, Joydeep and Chaudhuri, Swarat and Dillig, Isil and Dimakis, Alex and Godfrey, Brighten P and Kim, Daehyeok and Rossbach, Christopher and Wang, Gang},
 title = {On a Foundation Model for Operating Systems},
