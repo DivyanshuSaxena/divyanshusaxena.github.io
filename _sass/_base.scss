@@ -579,3 +579,15 @@ html.transition *:after {
   font-size: 0.875rem;
   padding-top: 0.25rem;
 }
+
+.unloaded {
+  display: none !important;
+}
+
+.selector {
+  display: inline-block;
+  background-color: var(--global-hover-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: white;
+}
