@@ -18,8 +18,7 @@ I am a graduate student at the [Department of Computer Sciences](https://cs.utex
 I am fortunate to be advised by [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/) at the UT Networked Systems ([UTNS](https://utns.cs.utexas.edu/)) lab.
 Earlier I was an RA in the same group at the University of Wisconsin-Madison.  
 
-I am broadly interested in Systems and Networking, with current focus on microservice and serverless deployments. Most recently, I have been investigating microservice deployments from two aspects - communication and learned autoscaling.  
-
+I am broadly interested in Systems and Networking, with current focus on microservice deployments and learned systems.
 I like to think about and come up with design principles to make computer systems efficient, performant and usable.
 <!-- I'm fascinated by questions such as "Can we bring datacenter-like capabilities to the end-users?" or "What are the fundamental constraints in the networked systems we use?". -->
 As a long term goal, it is my desire to bridge the gap between research and ground reality by working on socially utilizable projects.
