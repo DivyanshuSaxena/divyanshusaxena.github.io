@@ -3,6 +3,7 @@ group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
+    gem 'jekyll-imagemagick'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-github-metadata'
