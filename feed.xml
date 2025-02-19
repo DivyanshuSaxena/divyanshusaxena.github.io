@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://divyanshusaxena.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://divyanshusaxena.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-19T04:08:44+00:00</updated><id>https://divyanshusaxena.github.io/feed.xml</id><title type="html">blank</title><subtitle>Website for Divyanshu Saxena, UT Austin, IIT Delhi
+</subtitle><entry><title type="html">Ebpf Workflow</title><link href="https://divyanshusaxena.github.io/blog/2023/ebpf-workflow/" rel="alternate" type="text/html" title="Ebpf Workflow" /><published>2023-06-12T00:00:00+00:00</published><updated>2023-06-12T00:00:00+00:00</updated><id>https://divyanshusaxena.github.io/blog/2023/ebpf-workflow</id><content type="html" xml:base="https://divyanshusaxena.github.io/blog/2023/ebpf-workflow/"><![CDATA[<p>Incomplete but sound summary: https://blogs.oracle.com/linux/post/bpf-a-tour-of-program-types</p>
+
+<p>Which structs to use: https://elixir.bootlin.com/linux/latest/source/include/linux/bpf_types.h</p>
+
+<p>Documentation of attach types: https://github.com/torvalds/linux/blob/master/Documentation/bpf/libbpf/program_types.rst</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Incomplete but sound summary: https://blogs.oracle.com/linux/post/bpf-a-tour-of-program-types]]></summary></entry><entry><title type="html">importance of academic writing</title><link href="https://divyanshusaxena.github.io/blog/2023/paper-writing/" rel="alternate" type="text/html" title="importance of academic writing" /><published>2023-04-05T22:12:00+00:00</published><updated>2023-04-05T22:12:00+00:00</updated><id>https://divyanshusaxena.github.io/blog/2023/paper-writing</id><content type="html" xml:base="https://divyanshusaxena.github.io/blog/2023/paper-writing/"><![CDATA[<p>I have been meaning to write some (at least one) blog for my website for
+quite some time now. Occasionally, I stumble across some really insightful
+realizations, but procrastination usually takes over and those insights
+never get to see the light of the day. So, this time, when I was pondering
+what to write upon, a natural question was ‘what is even the benefit of writing?’.</p>
+
+<p>It turns out to be a happy coincidence that lately I have been involved in a
+lot of academic writing - papers, short papers, course project reports, etc.
+and I have realized that such academic writing actually helps in several ways.
+So this first blog post is dedicated to the ‘importance of academic writing’.</p>
+
+<p>Below I am jotting down pointers that I feel make academic writing useful:</p>
+
+<ul>
+    <li><strong>Clarity of thought:</strong> Writing down ideas clears the thought process.
+    Spending time over things that otherwise seem daunting, streamlines the thought
+    process. Things that seem overly-complicated become simpler and things that
+    one might take lightly show their true colors.</li>
+    <li><strong>Diverse Summarization:</strong> A lot of academic writing can
+    be thought of as various lengths of pitches. (In reference to Computer Science
+    Papers:) The Abstract section is like an elevator pitch, the Introduction
+    section is like a lightning talk, the Evaluation (or Results) section can be
+    thought of as an Impact script. Writing these gives us pointers on how to
+    convey our idea to a wide variety of audiences by giving the right points for
+    the right audience.</li>
+    <li><strong>Highlight key points:</strong> I have realized that writing good academic papers
+    is a lot about conveying the key points in the right manner. Parts of the project/
+    idea that took the most time might not be the key highlights of the project.
+    Identifying the `challenging' parts from the `interesting' parts of a project is
+    the key to effective impactful communication - whether written, visual, or verbal.</li>
+</ul>]]></content><author><name></name></author><category term="meta" /><summary type="html"><![CDATA[how writing papers helps your research project]]></summary></entry></feed>
