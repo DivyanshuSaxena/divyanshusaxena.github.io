@@ -12,7 +12,7 @@ nav: true
   const venues = {
     "Conference": ["Conference"],
     "Preprints": ["Preprint"],
-    "Workshop and Short Papers": ["Journal", "Workshop"],
+    "Workshop and Short Papers": ["Journal", "Workshop", "Short Paper", "Poster"],
   };
 
   // Filter items by category
